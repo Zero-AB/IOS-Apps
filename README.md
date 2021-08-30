@@ -1,2 +1,2 @@
-# IOS-Apps
-IOS Applications
+# iOS Applications
+A List of iOS Apps developed using Swift
